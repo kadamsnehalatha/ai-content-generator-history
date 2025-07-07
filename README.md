@@ -1,1 +1,1 @@
-# ai-content-generator-history
+# ai-content-generator
